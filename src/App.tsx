@@ -1,10 +1,12 @@
 import Home from "./components/Home";
 
+import * as C from "./style";
+
 function App() {
   return (
-    <div className="App">
+    <C.Container>
       <Home />
-    </div>
+    </C.Container>
   );
 }
 
