@@ -69,3 +69,29 @@ export const Time = styled.span`
   letter-spacing: -0.02em;
   color: rgba(0, 0, 0, 0.8);
 `;
+
+export const BoardingInfo = styled.div`
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+`;
+
+export const BoardingTime = styled.p`
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 4px 8px;
+  background: #633bbc;
+  border-radius: 8px;
+  font-weight: 500;
+  line-height: 19px;
+  letter-spacing: -0.02em;
+  color: #fff;
+`;
+
+export const BoardingText = styled.p`
+  line-height: 20px;
+  text-align: center;
+  letter-spacing: -0.02em;
+  color: rgba(0, 0, 0, 0.8);
+`;
