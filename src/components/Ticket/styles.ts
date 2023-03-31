@@ -51,7 +51,21 @@ export const Label = styled.label`
 `;
 
 export const Value = styled.p`
+  font-weight: 700;
   line-height: 19px;
   letter-spacing: -0.02em;
   color: rgba(0, 0, 0, 0.88);
+`;
+
+export const Airpont = styled.p`
+  font-size: 40px;
+  line-height: 50px;
+  color: rgba(0, 0, 0, 0.88);
+  letter-spacing: -0.02em;
+`;
+
+export const Time = styled.span`
+  line-height: 19px;
+  letter-spacing: -0.02em;
+  color: rgba(0, 0, 0, 0.8);
 `;
