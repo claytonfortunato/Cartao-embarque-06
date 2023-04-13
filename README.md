@@ -1,7 +1,7 @@
 <h1 align="center"> Cartão de Embarque - Bora Codar #06 </h1>
 
 <p align="center">
-Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB, nesse projeto foi criado um chat.
+Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB, nesse projeto foi criado um cartão de embarque.
 </p>
 
 <p align="center">
@@ -24,6 +24,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
   
 ## 👾 Deploy
 
+[Embarque](https://cartao-embarque-06.vercel.app/)
 
 ## 🚀 Tecnologias
 
@@ -36,7 +37,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto simula um chat funcional.
+O projeto cartão de embarque simples.
 
 ## 🔖 Layout
 
